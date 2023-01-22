@@ -1,17 +1,10 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Site Settings
 locale                   : "es-ES"
-title                    : "Biel Pons / Enciclopédia de frutas demoníacas"
+title                    : "Biel Pons / Enciclopedia de frutas demoníacas"
 title_separator          : "-"
 name                     : &name "Biel Pons"
-description              : &description "Enciclopédia de frutas demoníacas"
+description              : &description "Enciclopedia de frutas demoníacas"
 markdown: kramdown
 url: https://biel-pons.github.io
 theme: jekyll-theme-minimal
-include: _posts, _pages
+include: _posts
