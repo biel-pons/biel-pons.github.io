@@ -11,3 +11,7 @@ title                    : "Biel Pons / Enciclopédia de frutas demoníacas"
 title_separator          : "-"
 name                     : &name "Biel Pons"
 description              : &description "Enciclopédia de frutas demoníacas"
+markdown: kramdown
+url: biel-pons.github.io
+highlighter: rouge
+theme: minima
