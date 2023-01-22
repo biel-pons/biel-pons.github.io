@@ -1,11 +1,12 @@
 ---
 layout: page
 title: "Goma-Goma (Gomu-Gomu no mi)"
+author: "Biel Pons"
 ---
 
 # Poseedor
 
-[Monkey.D.Luffy]({% page_url /personaje/monkey-d-luffy %})
+[Monkey.D.Luffy]({% url /personaje/monkey-d-luffy %})
 
 # Primera aparición
 

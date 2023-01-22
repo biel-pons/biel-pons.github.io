@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Monkey.D.Luffy"
+author: "Biel Pons"
 ---
 
 # Alias
@@ -15,4 +16,4 @@ Esta fruta demoníaca fue comida por Luffy en el primer manga de la serie.
 
 # Fruta
 
-[Fruta Goma-Goma]({% page_url /fruta/goma-goma %})
+[Fruta Goma-Goma]({% url /fruta/goma-goma %})
