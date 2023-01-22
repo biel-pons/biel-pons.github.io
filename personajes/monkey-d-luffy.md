@@ -12,8 +12,6 @@ Sombrero de paja
 
 Manga número 1
 
-Esta fruta demoníaca fue comida por Luffy en el primer manga de la serie.
-
 # Fruta
 
 [Fruta Goma-Goma]({% link frutas/goma-goma.md %})
