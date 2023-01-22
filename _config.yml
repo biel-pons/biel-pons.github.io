@@ -13,6 +13,5 @@ name                     : &name "Biel Pons"
 description              : &description "Enciclopédia de frutas demoníacas"
 markdown: kramdown
 url: https://biel-pons.github.io
-highlighter: rouge
 theme: jekyll-theme-minimal
 include: _posts, _pages
