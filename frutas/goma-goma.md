@@ -6,7 +6,7 @@ author: "Biel Pons"
 
 # Poseedor
 
-[Monkey.D.Luffy]({% link personajes/monkey-d-luffy %})
+[Monkey.D.Luffy]({% link personajes/monkey-d-luffy.md %})
 
 # Primera aparición
 

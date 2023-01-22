@@ -16,4 +16,4 @@ Esta fruta demoníaca fue comida por Luffy en el primer manga de la serie.
 
 # Fruta
 
-[Fruta Goma-Goma]({% link fruta/goma-goma %})
+[Fruta Goma-Goma]({% link frutas/goma-goma.md %})
