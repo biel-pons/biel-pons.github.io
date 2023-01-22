@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Monkey.D.Luffy"
 author: "Biel Pons"
 ---

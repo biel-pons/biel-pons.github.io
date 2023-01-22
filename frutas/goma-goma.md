@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Goma-Goma (Gomu-Gomu no mi)"
 author: "Biel Pons"
 ---
