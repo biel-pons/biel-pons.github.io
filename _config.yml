@@ -12,6 +12,6 @@ title_separator          : "-"
 name                     : &name "Biel Pons"
 description              : &description "Enciclopédia de frutas demoníacas"
 markdown: kramdown
-url: biel-pons.github.io
+url: https://biel-pons.github.io
 highlighter: rouge
-theme: minima
+theme: jekyll-theme-minimal
