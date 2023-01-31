@@ -5,3 +5,4 @@ Blog personal de Biel Pons
 * [Fruta Goma-Goma]({% link frutas/goma-goma.md %})
 * [Fruta Dispersa Dispersa]({% link frutas/dispersa-dispersa.md %})
 * [Fruta Suave Suave]({% link frutas/suave-suave.md %})
+* [Fruta Humo-humo]({% link frutas/humo-humo.md %})
