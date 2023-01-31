@@ -6,7 +6,7 @@ author: "Biel Pons"
 
 # Poseedor
 
-[Ms. Valentine({% link personajes/ms-valentine.md %})
+[Ms. Valentine]({% link personajes/ms-valentine.md %})
 
 # Primera aparición
 
