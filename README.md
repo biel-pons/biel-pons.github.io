@@ -7,3 +7,4 @@ Blog personal de Biel Pons
 * [Fruta Suave Suave]({% link frutas/suave-suave.md %})
 * [Fruta Humo-humo]({% link frutas/humo-humo.md %})
 * [Fruta Explosión-explosión]({% link frutas/explosion-explosion.md %})
+* [Fruta Peso-peso]({% link frutas/peso-peso.md %})
