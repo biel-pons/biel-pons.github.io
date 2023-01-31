@@ -6,3 +6,4 @@ Blog personal de Biel Pons
 * [Fruta Dispersa Dispersa]({% link frutas/dispersa-dispersa.md %})
 * [Fruta Suave Suave]({% link frutas/suave-suave.md %})
 * [Fruta Humo-humo]({% link frutas/humo-humo.md %})
+* [Fruta Explosión-explosión]({% link frutas/explosion-explosion.md %})
