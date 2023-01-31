@@ -8,3 +8,4 @@ Blog personal de Biel Pons
 * [Fruta Humo-humo]({% link frutas/humo-humo.md %})
 * [Fruta Explosión-explosión]({% link frutas/explosion-explosion.md %})
 * [Fruta Peso-peso]({% link frutas/peso-peso.md %})
+* [Fruta Cera cera]({% link frutas/cera-cera.md %})
