@@ -9,3 +9,4 @@ Blog personal de Biel Pons
 * [Fruta Explosión-explosión]({% link frutas/explosion-explosion.md %})
 * [Fruta Peso-peso]({% link frutas/peso-peso.md %})
 * [Fruta Cera cera]({% link frutas/cera-cera.md %})
+* [Fruta Devora Devora]({% link frutas/devora-devora.md %})
