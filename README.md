@@ -10,3 +10,8 @@ Blog personal de Biel Pons
 * [Fruta Peso-peso]({% link frutas/peso-peso.md %})
 * [Fruta Cera cera]({% link frutas/cera-cera.md %})
 * [Fruta Devora Devora]({% link frutas/devora-devora.md %})
+* [Fruta Toro-Toro]({% link frutas/toro-toro.md %})
+* 
+* 
+* 
+* 
