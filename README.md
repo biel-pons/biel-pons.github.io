@@ -11,7 +11,7 @@ Blog personal de Biel Pons
 * [Fruta Cera cera]({% link frutas/cera-cera.md %})
 * [Fruta Devora Devora]({% link frutas/devora-devora.md %})
 * [Fruta Toro-Toro]({% link frutas/toro-toro.md %})
-* [Fruta Hombre-Hombre]({% link frutas/hombr-hombre.md %})
+* [Fruta Hombre-Hombre]({% link frutas/hombre-hombre.md %})
 * 
 * 
 * 
