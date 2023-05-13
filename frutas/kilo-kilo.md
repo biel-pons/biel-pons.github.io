@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kilo Kilo"
+title: "Kilo kilo"
 author: "Biel Pons"
 ---
 

@@ -7,11 +7,11 @@ Blog personal de Biel Pons
 * [Fruta Suave Suave]({% link frutas/suave-suave.md %})
 * [Fruta Humo humo]({% link frutas/humo-humo.md %})
 * [Fruta Explosión-explosión]({% link frutas/explosion-explosion.md %})
-* [Fruta Peso peso]({% link frutas/peso-peso.md %})
+* [Fruta Kilo kilo]({% link frutas/kilo-kilo.md %})
 * [Fruta Cera cera]({% link frutas/cera-cera.md %})
 * [Fruta Devora Devora]({% link frutas/devora-devora.md %})
 * [Fruta Toro Toro]({% link frutas/toro-toro.md %})
 * [Fruta Hombre Hombre]({% link frutas/hombre-hombre.md %})
 * [Fruta Copia copia]({% link frutas/copia-copia.md %})
-* 
+* [Fruta Pájaro pájaro]({% link frutas/pájaro-pájaro.md%})
 * 
