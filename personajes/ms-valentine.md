@@ -10,4 +10,4 @@ Manga número 13
 
 # Fruta
 
-[Fruta Peso-peso]({% link frutas/peso-peso.md %})
+[Fruta Kilo-kilo]({% link frutas/kilo-kilo.md %})
