@@ -14,4 +14,4 @@ Manga número 19
 
 # Fruta
 
-[Fruta Pájaro-pájaro]({% link frutas/pájaro-pájaro.md %})
+[Fruta Pájaro-pájaro]({% link frutas/pájaro-pájaro(halcón).md %})
