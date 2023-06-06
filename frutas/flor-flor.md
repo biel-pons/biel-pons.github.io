@@ -12,4 +12,4 @@ author: "Biel Pons"
 
 Manga número 19
 
-Esta fruta demoníaca fue comida por Miss. All Sunday en el manga número 19 de la serie.
+Esta fruta demoníaca tiene la capacidad de hacer florecer el cuerpo de la persona usuaria, la cantidad que quiera y por donde quiera.
