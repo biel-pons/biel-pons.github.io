@@ -12,4 +12,4 @@ author: "Biel Pons"
 
 Manga número 18
 
-Esta fruta demoníaca fue comida por Mr.2 Bon Clay en el manga número 18 de la serie.
+Esta fruta tiene la capacidad de copiar la cara y cuerpo del personaje que toca con la mano derecha y la mano izquierda vuelve a la apariencia del usuario
