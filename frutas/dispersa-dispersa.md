@@ -12,4 +12,4 @@ author: "Biel Pons"
 
 Manga número 2
 
-Esta fruta demoníaca fue comida por Buggy el payaso en el segundo manga de la serie.
+Esta fruta tiene la capacidad de partirse por la mitad y no morirse
