@@ -12,4 +12,4 @@ author: "Biel Pons"
 
 Manga número 13
 
-Esta fruta demoníaca fue comida por Mr.5 en el manga número 13 de la serie.
+Esta fruta tiene la capacidad de usar el cuerpo o algunos objetos para ser explosiones
