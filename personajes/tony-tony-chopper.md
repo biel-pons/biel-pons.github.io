@@ -10,4 +10,4 @@ Manga número 16
 
 # Fruta
 
-[Fruta Hombre-hombre]({% link frutas/hombre-hombre.md %})
+[Fruta Hombre-Hombre]({% link frutas/hombre-hombre.md %})

@@ -10,4 +10,4 @@ Manga número 18
 
 # Fruta
 
-[Fruta Copia copia]({% link frutas/copia-copia.md %})
+[Fruta Copia Copia]({% link frutas/copia-copia.md %})

@@ -10,4 +10,4 @@ Manga número 14
 
 # Fruta
 
-[Fruta Cera cera]({% link frutas/cera-cera.md %})
+[Fruta Cera Cera]({% link frutas/cera-cera.md %})

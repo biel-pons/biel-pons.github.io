@@ -10,4 +10,4 @@ Manga número 13
 
 # Fruta
 
-[Fruta Explosión-explosión]({% link frutas/explosion-explosion.md %})
+[Fruta Explosión-Explosión]({% link frutas/explosion-explosion.md %})

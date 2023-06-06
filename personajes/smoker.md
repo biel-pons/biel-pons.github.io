@@ -14,4 +14,4 @@ Manga número 12
 
 # Fruta
 
-[Fruta Humo-humo]({% link frutas/humo-humo.md %})
+[Fruta Humo-Humo]({% link frutas/humo-humo.md %})

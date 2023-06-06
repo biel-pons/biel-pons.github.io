@@ -10,4 +10,4 @@ Manga número 18
 
 # Fruta
 
-[Fruta Fuego-fuego]({% link frutas/fuego-fuego.md %})
+[Fruta Fuego-Fuego]({% link frutas/fuego-fuego.md %})

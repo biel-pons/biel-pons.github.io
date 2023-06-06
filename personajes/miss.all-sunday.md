@@ -10,4 +10,4 @@ Manga número 19
 
 # Fruta
 
-[Fruta Flor-flor]({% link frutas/flor-flor.md %})
+[Fruta Flor-Flor]({% link frutas/flor-flor.md %})

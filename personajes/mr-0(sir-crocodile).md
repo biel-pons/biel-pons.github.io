@@ -10,4 +10,4 @@ Manga número 18
 
 # Fruta
 
-[Fruta Arena arena]({% link frutas/arena-arena.md %})
+[Fruta Arena Arena]({% link frutas/arena-arena.md %})
