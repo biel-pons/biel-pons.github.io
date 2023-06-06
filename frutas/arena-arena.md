@@ -6,7 +6,7 @@ author: "Biel Pons"
 
 # Poseedor
 
-[Mr.0(Sir Crocodile)]({% link personajes/mr.0(sir-crocodile) %})
+[Mr.0(Sir Crocodile)]({% link frutas/arena-arena.md %})
 
 # Primera aparición
 
