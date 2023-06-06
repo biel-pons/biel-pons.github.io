@@ -12,4 +12,4 @@ author: "Biel Pons"
 
 Manga número 12
 
-Esta fruta demoníaca fue comida por Smoker en el  manga número 12 de la serie.
+Esta fruta es de tipo logia, no le puede afectar ningún ataque(excepto si tienes kairoseki, usas la energía vital de la armadura o si te caes al mar), es una materia inorgánica.
