@@ -11,3 +11,5 @@ Manga número 18
 # Fruta
 
 [Fruta Arena Arena]({% link frutas/arena-arena.md %})
+
+Cabecilla de una sociedad malvada llamada Baroque Works
