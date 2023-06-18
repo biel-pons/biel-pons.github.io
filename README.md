@@ -18,4 +18,3 @@ Blog personal de Biel Pons
 * [Fruta Pájaro Pájaro]({% link frutas/pájaro-pájaro(halcón).md%})
 * [Fruta Flor-Flor]({% link frutas/flor-flor.md %})
 * [Fruta Arena Arena]({% link frutas/arena-arena.md %})
-
