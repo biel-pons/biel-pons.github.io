@@ -4,11 +4,11 @@ title: "Peso peso"
 author: "Biel Pons"
 ---
 
-# Poseedor
+## Poseedor
 
 [Ms. Valentine]({% link personajes/ms-valentine.md %})
 
-# Primera aparición
+## Primera aparición
 
 Manga número 13
 

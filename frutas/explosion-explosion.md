@@ -4,11 +4,11 @@ title: "Explosión explosión"
 author: "Biel Pons"
 ---
 
-# Poseedor
+## Poseedor
 
 [Mr.5]({% link personajes/mr-5.md %})
 
-# Primera aparición
+## Primera aparición
 
 Manga número 13
 

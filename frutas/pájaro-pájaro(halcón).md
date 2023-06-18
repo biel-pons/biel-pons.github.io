@@ -4,11 +4,11 @@ title: "Pàjaro pàjaro"
 author: "Biel Pons"
 ---
 
-# Poseedor
+## Poseedor
 
 [Pell el halcón]({% link personajes/pell-el-halcón.md %})
 
-# Primera aparición
+## Primera aparición
 
 Manga número 19
 

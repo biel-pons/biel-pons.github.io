@@ -4,14 +4,14 @@ title: "Lady Alvida"
 author: "Biel Pons"
 ---
 
-# Alias
+## Alias
 
 Clavo de hierro
 
-# Primera aparición
+## Primera aparición
 
 Manga número 11
 
-# Fruta
+## Fruta
 
 [Fruta Suave-Suave]({% link frutas/suave-suave.md %})

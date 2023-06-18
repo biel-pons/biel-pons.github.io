@@ -4,10 +4,10 @@ title: "Portgas.D.Ace"
 author: "Biel Pons"
 ---
 
-# Primera aparición
+## Primera aparición
 
 Manga número 18
 
-# Fruta
+## Fruta
 
 [Fruta Fuego-Fuego]({% link frutas/fuego-fuego.md %})

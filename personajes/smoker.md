@@ -4,14 +4,14 @@ title: "smoker"
 author: "Biel Pons"
 ---
 
-# Alias
+## Alias
 
 El cazador blanco
 
-# Primera aparición
+## Primera aparición
 
 Manga número 12
 
-# Fruta
+## Fruta
 
 [Fruta Humo-Humo]({% link frutas/humo-humo.md %})

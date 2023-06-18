@@ -4,11 +4,11 @@ title: "Arena arena"
 author: "Biel Pons"
 ---
 
-# Poseedor
+## Poseedor
 
 [Mr.0(Sir Crocodile)]({% link frutas/arena-arena.md %})
 
-# Primera aparición
+## Primera aparición
 
 Manga número 18
 

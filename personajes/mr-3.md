@@ -4,10 +4,10 @@ title: "Mr.3"
 author: "Biel Pons"
 ---
 
-# Primera aparición
+## Primera aparición
 
 Manga número 14
 
-# Fruta
+## Fruta
 
 [Fruta Cera Cera]({% link frutas/cera-cera.md %})

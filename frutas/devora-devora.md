@@ -4,11 +4,11 @@ title: "Devora Devora"
 author: "Biel Pons"
 ---
 
-# Poseedor
+## Poseedor
 
 [Wapol, el de ojalata]({% link personajes/wapol-el-de-ojalata.md %})
 
-# Primera aparición
+## Primera aparición
 
 Manga número 16
 

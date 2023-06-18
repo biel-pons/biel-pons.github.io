@@ -4,11 +4,11 @@ title: "Cera cera"
 author: "Biel Pons"
 ---
 
-# Poseedor
+## Poseedor
 
 [Mr.3]({% link personajes/mr-3.md %})
 
-# Primera aparición
+## Primera aparición
 
 Manga número 14
 

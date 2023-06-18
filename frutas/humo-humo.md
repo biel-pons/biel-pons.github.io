@@ -4,11 +4,11 @@ title: "Humo humo"
 author: "Biel Pons"
 ---
 
-# Poseedor
+## Poseedor
 
 [Smoker]({% link personajes/smoker.md %})
 
-# Primera aparición
+## Primera aparición
 
 Manga número 12
 

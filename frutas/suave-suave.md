@@ -4,11 +4,11 @@ title: "Suave-Suave"
 author: "Biel Pons"
 ---
 
-# Poseedor
+## Poseedor
 
 [Lady Alvida]({% link personajes/lady-alvida.md %})
 
-# Primera aparición
+## Primera aparición
 
 Manga número 11
 

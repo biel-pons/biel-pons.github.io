@@ -4,10 +4,10 @@ title: "Dolton"
 author: "Biel Pons"
 ---
 
-# Primera aparición
+## Primera aparición
 
 Manga número 16
 
-# Fruta
+## Fruta
 
 [Fruta Toro-Toro]({% link frutas/toro-toro.md %})

@@ -4,11 +4,11 @@ title: "Toro-Toro"
 author: "Biel Pons"
 ---
 
-# Poseedor
+## Poseedor
 
 [Dolton]({% link personajes/dolton.md %})
 
-# Primera aparición
+## Primera aparición
 
 Manga número 16
 

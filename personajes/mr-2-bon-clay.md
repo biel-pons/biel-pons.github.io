@@ -4,10 +4,10 @@ title: "Mr.2 Bon Clay"
 author: "Biel Pons"
 ---
 
-# Primera aparición
+## Primera aparición
 
 Manga número 18
 
-# Fruta
+## Fruta
 
 [Fruta Copia Copia]({% link frutas/copia-copia.md %})

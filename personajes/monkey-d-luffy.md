@@ -4,14 +4,14 @@ title: "Monkey.D.Luffy"
 author: "Biel Pons"
 ---
 
-# Alias
+## Alias
 
 Sombrero de paja
 
-# Primera aparición
+## Primera aparición
 
 Manga número 1
 
-# Fruta
+## Fruta
 
 [Fruta Goma-Goma]({% link frutas/goma-goma.md %})

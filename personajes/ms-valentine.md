@@ -4,10 +4,10 @@ title: "Ms.Valentine"
 author: "Biel Pons"
 ---
 
-# Primera aparición
+## Primera aparición
 
 Manga número 13
 
-# Fruta
+## Fruta
 
 [Fruta Peso-Peso]({% link frutas/peso-peso.md %})

@@ -4,10 +4,10 @@ title: "Tony Tony Chopper"
 author: "Biel Pons"
 ---
 
-# Primera aparición
+## Primera aparición
 
 Manga número 16
 
-# Fruta
+## Fruta
 
 [Fruta Hombre-Hombre]({% link frutas/hombre-hombre.md %})

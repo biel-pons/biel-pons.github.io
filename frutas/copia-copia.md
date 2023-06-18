@@ -4,11 +4,11 @@ title: "Copia copia"
 author: "Biel Pons"
 ---
 
-# Poseedor
+## Poseedor
 
 [Mr.2 Bon Clay]({% link personajes/mr-2-bon-clay.md %})
 
-# Primera aparición
+## Primera aparición
 
 Manga número 18
 

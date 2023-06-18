@@ -4,11 +4,11 @@ title: "Hombre-Hombre"
 author: "Biel Pons"
 ---
 
-# Poseedor
+## Poseedor
 
 [Tony Tony Chopper]({% link personajes/tony-tony-chopper.md %})
 
-# Primera aparición
+## Primera aparición
 
 Manga número 16
 

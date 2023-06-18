@@ -4,14 +4,14 @@ title: "Pell"
 author: "Biel Pons"
 ---
 
-# Alias
+## Alias
 
 El halcón
 
-# Primera aparición
+## Primera aparición
 
 Manga número 19
 
-# Fruta
+## Fruta
 
 [Fruta Pájaro-Pájaro]({% link frutas/pájaro-pájaro(halcón).md %})

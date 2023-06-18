@@ -4,11 +4,11 @@ title: "Dispersa Dispersa"
 author: "Biel Pons"
 ---
 
-# Poseedor
+## Poseedor
 
 [Buggy el payaso]({% link personajes/buggy-el-payaso.md %})
 
-# Primera aparición
+## Primera aparición
 
 Manga número 2
 

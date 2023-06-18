@@ -4,11 +4,11 @@ title: "Flor flor"
 author: "Biel Pons"
 ---
 
-# Poseedor
+## Poseedor
 
 [Miss. All Sunday]({% link personajes/miss.all-sunday.md %})
 
-# Primera aparición
+## Primera aparición
 
 Manga número 19
 

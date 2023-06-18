@@ -4,11 +4,11 @@ title: "Fuego fuego"
 author: "Biel Pons"
 ---
 
-# Poseedor
+## Poseedor
 
 [Portgas.D.Ace]({% link personajes/portgas.d.ace.md %})
 
-# Primera aparición
+## Primera aparición
 
 Manga número 18
 

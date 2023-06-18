@@ -4,14 +4,14 @@ title: "Buggy el payaso"
 author: "Biel Pons"
 ---
 
-# Alias
+## Alias
 
 El payaso
 
-# Primera aparición
+## Primera aparición
 
 Manga número 2
 
-# Fruta
+## Fruta
 
 [Fruta Dispersa Dispersa]({% link frutas/dispersa-dispersa.md %})

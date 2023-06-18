@@ -4,10 +4,10 @@ title: "Miss. All Sunday"
 author: "Biel Pons"
 ---
 
-# Primera aparición
+## Primera aparición
 
 Manga número 19
 
-# Fruta
+## Fruta
 
 [Fruta Flor-Flor]({% link frutas/flor-flor.md %})

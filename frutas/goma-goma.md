@@ -4,11 +4,11 @@ title: "Goma-Goma (Gomu-Gomu no mi)"
 author: "Biel Pons"
 ---
 
-# Poseedor
+## Poseedor
 
 [Monkey.D.Luffy]({% link personajes/monkey-d-luffy.md %})
 
-# Primera aparición
+## Primera aparición
 
 Manga número 1
 
