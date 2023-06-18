@@ -1,7 +1,9 @@
 # biel-pons.github.io
+
 Blog personal de Biel Pons
 
-# One Piece - Frutas demoníacas ordenadas cronológicamente
+## One Piece - Frutas demoníacas ordenadas cronológicamente
+
 * [Fruta Goma Goma]({% link frutas/goma-goma.md %})
 * [Fruta Dispersa Dispersa]({% link frutas/dispersa-dispersa.md %})
 * [Fruta Suave Suave]({% link frutas/suave-suave.md %})
@@ -16,5 +18,4 @@ Blog personal de Biel Pons
 * [Fruta Pájaro Pájaro]({% link frutas/pájaro-pájaro(halcón).md%})
 * [Fruta Flor-Flor]({% link frutas/flor-flor.md %})
 * [Fruta Arena Arena]({% link frutas/arena-arena.md %})
-* 
-* 
+
