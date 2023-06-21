@@ -15,3 +15,7 @@ Manga número 2
 ## Fruta
 
 [Fruta Dispersa Dispersa]({% link frutas/dispersa-dispersa.md %})
+
+## Imágenes
+
+![Imágen de Buggy](/images/buggy.webp "Imágen de Buggy")
