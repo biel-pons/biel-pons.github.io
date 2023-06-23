@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Toro-Toro"
+title: "Toro Toro"
 author: "Biel Pons"
 ---
 
@@ -12,4 +12,4 @@ author: "Biel Pons"
 
 Manga número 16
 
-Esta fruta demoníaca fue comida por Dolton en el manga número 16 de la serie.
+Los poderes de esta fruta són del tipo zoan, que convierte al usuario en el animal del nombre de la fruta, en este caso, en un toro

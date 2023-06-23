@@ -12,4 +12,4 @@ author: "Biel Pons"
 
 Manga número 1
 
-Esta fruta demoníaca fue comida por Luffy en el primer manga de la serie.
+ Es de tipo paramecia, puede alterar el entorno, su interior, o generar algunas sustáncias. Esta fruta demoníaca fue comida por Luffy en el primer manga de la serie.

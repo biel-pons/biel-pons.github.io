@@ -12,4 +12,4 @@ author: "Biel Pons"
 
 Manga número 13
 
-Esta fruta tiene el poder de poder levitar y saltar como una pluma, y mientras levitas, puedes hacer que peses mucho y estirar la pierna, entonces podrías caer como una guillotina.
+ Es de tipo paramecia, puede alterar el entorno, su interior, o generar algunas sustáncias. Esta fruta tiene el poder de poder levitar y saltar como una pluma, y mientras levitas, puedes hacer que peses mucho y estirar la pierna, entonces podrías caer como una guillotina.

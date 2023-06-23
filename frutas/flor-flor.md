@@ -12,4 +12,4 @@ author: "Biel Pons"
 
 Manga número 19
 
-Esta fruta demoníaca tiene la capacidad de hacer florecer el cuerpo de la persona usuaria, la cantidad que quiera y por donde quiera.
+ Es de tipo paramecia, puede alterar el entorno, su interior, o generar algunas sustáncias. Esta fruta demoníaca tiene la capacidad de hacer florecer el cuerpo de la persona usuaria, la cantidad que quiera y por donde quiera.

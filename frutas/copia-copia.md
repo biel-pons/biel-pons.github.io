@@ -12,4 +12,4 @@ author: "Biel Pons"
 
 Manga número 18
 
-Esta fruta tiene la capacidad de copiar la cara y cuerpo del personaje que toca con la mano derecha y la mano izquierda vuelve a la apariencia del usuario
+ Es de tipo paramecia, puede alterar el entorno, su interior, o generar algunas sustáncias. Esta fruta tiene la capacidad de copiar la cara y cuerpo del personaje que toca con la mano derecha y la mano izquierda vuelve a la apariencia del usuario.

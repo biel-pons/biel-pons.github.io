@@ -12,4 +12,4 @@ author: "Biel Pons"
 
 Manga número 19
 
-Esta fruta demoníaca fue comida por Pell el halcón en el  manga número 19 de la serie.
+Los poderes de esta fruta són del tipo zoan, que convierte al usuario en el animal del nombre de la fruta, en este caso, en un halcón

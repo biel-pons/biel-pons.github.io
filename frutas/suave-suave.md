@@ -12,4 +12,4 @@ author: "Biel Pons"
 
 Manga número 11
 
-Esta fruta demoníaca fue comida por Lady Alvida en el manga número 11 de la serie.
+ Es de tipo paramecia, puede alterar el entorno, su interior, o generar algunas sustáncias. Esta fruta demoníaca fue comida por Lady Alvida en el manga número 11 de la serie.

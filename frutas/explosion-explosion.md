@@ -12,4 +12,4 @@ author: "Biel Pons"
 
 Manga número 13
 
-Esta fruta tiene la capacidad de usar el cuerpo o algunos objetos para ser explosiones
+Esta fruta tiene la capacidad de usar el cuerpo o algunos objetos para hacer explosiones
