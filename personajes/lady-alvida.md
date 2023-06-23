@@ -15,3 +15,7 @@ Manga número 11
 ## Fruta
 
 [Fruta Suave-Suave]({% link frutas/suave-suave.md %})
+
+## Imágenes
+
+![Imágen de Alvida](/images/alvida.webp "Imágen de Alvida")
