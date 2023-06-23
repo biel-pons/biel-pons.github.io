@@ -16,4 +16,4 @@ Cabecilla de una sociedad malvada llamada Baroque Works
 
 ## Imágenes
 
-![Imágen de Crocodile](/images/mr.0(sir crocodile).webp "Imágen de Crocodile")
+![Imágen de Mr.0(sir Crocodile)](/images/mr.0(sir crocodile).webp "Imágen de Mr.0(sir Crocodile)")
