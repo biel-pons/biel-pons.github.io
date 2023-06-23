@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Explosión explosión"
+title: "Explosión Explosión"
 author: "Biel Pons"
 ---
 
@@ -12,4 +12,4 @@ author: "Biel Pons"
 
 Manga número 13
 
-Esta fruta tiene la capacidad de usar el cuerpo o algunos objetos para hacer explosiones
+Es de tipo paramecia, puede alterar el entorno, su interior, o generar algunas sustáncias. Esta fruta tiene la capacidad de usar el cuerpo o algunos objetos para hacer explosiones
