@@ -13,3 +13,7 @@ Manga número 18
 [Fruta Arena Arena]({% link frutas/arena-arena.md %})
 
 Cabecilla de una sociedad malvada llamada Baroque Works
+
+## Imágenes
+
+![Imágen de Crocodile](/images/mr.0(sir crocodile).webp "Imágen de Crocodile")
