@@ -6,7 +6,7 @@ author: "Biel Pons"
 
 ## Poseedor
 
-[Mr.1 (Daz Bones)]({% link personajes/Mr.1 (daz bones).md %})
+[Mr.1 (Daz Bones)]({% link personajes/mr.1 (daz bones).md %})
 
 ## Primera aparición
 
