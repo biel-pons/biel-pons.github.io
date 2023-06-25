@@ -6,7 +6,7 @@ author: "Biel Pons"
 
 ## Poseedor
 
-[Miss. All Sunday (Nico Robin)]({% link personajes/miss.all-sunday (nico robin).md %})
+[Miss. All Sunday (Nico Robin)]({% link personajes/miss.all-sunday(nico-robin).md %})
 
 ## Primera aparición
 

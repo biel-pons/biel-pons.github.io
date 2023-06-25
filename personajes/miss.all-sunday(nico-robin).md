@@ -14,4 +14,4 @@ Manga número 19
 
 ## Imágenes
 
-![Imágen de Miss. All Sunday (Nico Robin)](/images/miss all sunday (nico robin).webp "Imágen de Miss. All Sunday (Nico Robin)")
+![Imágen de Miss. All Sunday (Nico Robin)](/images/miss-all-sunday(nico-robin).webp "Imágen de Miss. All Sunday (Nico Robin)")
