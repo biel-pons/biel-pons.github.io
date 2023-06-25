@@ -6,7 +6,7 @@ author: "Biel Pons"
 
 ## Poseedor
 
-[Wapol, el de ojalata]({% link personajes/wapol-el-de-ojalata.md %})
+[Wapol, el de hojalata]({% link personajes/wapol-el-de-hojalata.md %})
 
 ## Primera aparición
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Wapol, el de ojalata"
+title: "Wapol, el de hojalata"
 author: "Biel Pons"
 ---
 
 ## Alias
 
-El de ojalata
+El de hojalata
+
 ## Primera aparición
 
 Manga número 16

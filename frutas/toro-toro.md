@@ -12,4 +12,4 @@ author: "Biel Pons"
 
 Manga número 16
 
-Los poderes de esta fruta són del tipo zoan, que convierte al usuario en el animal del nombre de la fruta, en este caso, en un toro
+Los poderes de esta fruta són del tipo zoan, que convierte al usuario en el animal del nombre de la fruta, en este caso, en un toro.

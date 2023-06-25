@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: "post"
 title: "Mr.1 (Daz Bones)"
 author: "Biel Pons"
 ---
