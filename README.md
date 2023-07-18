@@ -21,3 +21,4 @@ Blog personal de Biel Pons
 * [Fruta Excava Excava]({% link frutas/excava-excava.md %})
 * [Fruta Perro Perro]({% link frutas/perro-perro.md %})
 * [Fruta Corte-Corte]({% link frutas/corte-corte.md %})
+* [Fruta Pincho-Pincho]({% link frutas/pincho-pincho.md %})
